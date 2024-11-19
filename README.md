@@ -1,6 +1,6 @@
 # EX 2
 # Image Acquisition using Web Camera
-
+# DATE
 ### Name : BOOBESH PM
 ### Register No : 212222233001
 
